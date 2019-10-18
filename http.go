@@ -1,7 +1,3 @@
-/*
-Coded by LeeOn123
-Please fking code ur script by ur self, kid.
-*/
 package main
 
 import (
@@ -236,7 +232,7 @@ func main() {
 	fmt.Println("█▀▀▄ █░░█ ░░█ ▀█▀ ░█░ ░░▀▄ ░░▀▄ ░░█░")
 	fmt.Println("▀▀▀░ ▀▀▀▀ █▄█ ▀▀▀ ▄█▄ █▄▄█ █▄▄█ ░▐▌░")
 	fmt.Println("                                                                       ")
-	fmt.Println("       versiune golang necesara 1.5     ")
+	fmt.Println("          ")
 	fmt.Println("           bojoga#9062")
 	fmt.Println("                      ")
 	if len(os.Args) != 8 {
